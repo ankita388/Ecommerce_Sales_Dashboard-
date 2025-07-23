@@ -56,3 +56,4 @@ Profit Margin = (Profit / Revenue) × 100
 
 🧩 Screenshots:
 https://github.com/ankita388/Ecommerce_Sales_Dashboard-/blob/main/Snapshot%20of%20the%20dashboard.png
+<img width="1318" height="648" alt="image" src="https://github.com/user-attachments/assets/5f520619-9309-4684-b935-641ac507b00f" />
