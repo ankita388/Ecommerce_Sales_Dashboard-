@@ -55,4 +55,4 @@ Profit = Selling Price − Cost Price
 Profit Margin = (Profit / Revenue) × 100
 
 🧩 Screenshots:
-
+https://github.com/ankita388/Ecommerce_Sales_Dashboard-/blob/main/Snapshot%20of%20the%20dashboard.png
